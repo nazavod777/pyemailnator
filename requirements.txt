@@ -1,0 +1,4 @@
+setuptools>=59.6.0
+requests>=2.31.0
+httpx>=0.24.1
+better_proxy>=0.2.2
